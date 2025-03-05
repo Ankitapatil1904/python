@@ -1,0 +1,11 @@
+i = 51
+print("identifier :" , i , "type :", type(i))
+s1 = bin(i)
+print(" identifier s1 : " , s1 , " type :" , type(s1))
+s2 = hex(i)
+print(" identifier s2 : " , s2 , " type :" , type(s2))
+s3 = oct(i)
+print("identifier s3 :" , s3 , "type :" , type(s3))
+print(" binary of 100:", bin(100))
+print("octanal of 10000:" ,oct(1000))
+print("hexadecimal of 7000:", hex(7000))
