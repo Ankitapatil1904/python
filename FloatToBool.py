@@ -1,0 +1,16 @@
+f1, f2, f3, f4 = 0.0, 1.0, -0.1, 3.14
+print("Float identifiers :")
+print("Identifier f1 :", f1, "Type :", type(f1), "ID :", id(f1))
+print("Identifier f2 :", f2, "Type :", type(f2), "ID :", id(f2))
+print("Identifier f3 :", f3, "Type :", type(f3), "ID :", id(f3))
+print("Identifier f4 :", f4, "Type :", type(f4), "ID :", id(f4))
+b1 = bool(f1)
+b2 = bool(f2)
+b3 = bool(f3)
+b4 = bool(f4)
+print("\nFloat identifiers converted into Boolean type :")
+print("Identifier b1 :", b1, "Type :", type(b1), "ID :", id(b1))
+print("Identifier b2 :", b2, "Type :", type(b2), "ID :", id(b2))
+print("Identifier b3 :", b3, "Type :", type(b3), "ID :", id(b3))
+print("Identifier b4 :", b4, "Type :", type(b4), "ID :", id(b4))
+
