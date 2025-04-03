@@ -1,0 +1,8 @@
+tuple =(1 ,2 , 6 ,8 , 10)
+print("identifier :" , tuple)
+print("data type :", type(tuple))
+print("length of tuple:", len(tuple))
+tuple2 = (4, 9, 2024, True, 3.14, -150, 'Python', 0, "Tuple Data Type", 12+34j)
+print("Identifier tuple2 :", tuple2)
+print("Data type :", type(tuple2))
+print("Number of elements in, or length of the object tuple2 :", len(tuple2))
